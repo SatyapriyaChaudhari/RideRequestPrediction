@@ -25,6 +25,7 @@ There were 8122696 ride requests recorded.
 * The time series is not stationary.
 ***
 * Clear spike in the data at every seven day interval
+
 ![Rapido3.png](https://github.com/SatyapriyaChaudhari/RideRequestPrediction/blob/master/Rapido3.png)
 ![Rapido4.png](https://github.com/SatyapriyaChaudhari/RideRequestPrediction/blob/master/Rapido4.png)
 
